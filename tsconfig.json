@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",                                            
+    "strict": true,
+    "outDir": "public/JS",
+    "watch": true                                    
+  },
+  "include": ["public/**/*.ts"],
+  "exclude": ["node_modules"]
+}
